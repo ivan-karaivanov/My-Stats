@@ -1,6 +1,6 @@
-### 👋 Hi all, I'm Ivan!
+### 👋 Hi there, I'm Ivan!
 
-- 👨‍💻 I'm a Software Developer with experience in automation (CI/CD) and virtualisation.
+- 👨‍💻 I'm a Software Developer with experience in automation (CI/CD) and virtualization.
 - 🔭 I have experience with AWS and Azure as well as Terraform and Docker.
 - 🌱 I'm currently I'm enhancing my coding skills with Python, Java & JavaScript. I am always open to learning new things and expanding my knowledge.
 - 💬 Ask me about anything related to Cybersecurity, DevOps or Coding.
