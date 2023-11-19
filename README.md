@@ -11,7 +11,7 @@
 ### 🚀 Languages
 
   ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=plastic)
-  ![JavaScript Badge](https://img.shields.io/badge/JavaScript-yellow)
+  ![JavaScript Badge](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
   ![Java Badge](https://img.shields.io/badge/Java-%23FFD700?style=flat-square)
   ![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=plastic)
   ![JSON Badge](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&style=plastic)
