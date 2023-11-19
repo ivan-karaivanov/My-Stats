@@ -2,7 +2,7 @@
 
 - 👨‍💻 I'm a Software Developer with experience in automation (CI/CD) and virtualisation.
 - 🔭 I have experience with AWS and Azure as well as Terraform and Docker.
-- 🌱 I'm currently I'm enhancing my coding skills with Python and JavaScript. I am always open to learning new things and expanding my knowledge.
+- 🌱 I'm currently I'm enhancing my coding skills with Python, Java & JavaScript. I am always open to learning new things and expanding my knowledge.
 - 💬 Ask me about anything related to Cybersecurity, DevOps or Coding.
 - 🗻 Fun fact: Today you learned something new, which makes you better than yesterday!
  
@@ -11,12 +11,15 @@
 ### 🚀 Languages
 
   ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=plastic)
+  ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=plastic)
   ![JSON Badge](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&style=plastic)
   ![YAML Badge](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff&style=plastic)
   ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=plastic)
   ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=plastic)
   ![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=plastic)
+  
 
 ### 🛠️ Tools & Technologies
   
@@ -49,6 +52,8 @@
   ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=plastic)
   ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=plastic)
   ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=plastic)
+  ![Kali Linux Badge](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+  ![Red Hat Badge](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 
 ### 🗎 Productivity Software
 
