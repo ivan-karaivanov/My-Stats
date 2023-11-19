@@ -12,7 +12,7 @@
 
   ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=plastic)
   ![JavaScript Badge](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white&logoWidth=20)
-  ![Java Badge](https://img.shields.io/badge/Java-%23FFD700?style=flat-square)
+  ![Java Badge](https://img.shields.io/badge/Java-FFA500?style=flat&logo=https://image.flaticon.com/icons/png/512/226/226777.png&logoWidth=20+)
   ![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=plastic)
   ![JSON Badge](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&style=plastic)
   ![YAML Badge](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff&style=plastic)
