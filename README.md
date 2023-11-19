@@ -2,7 +2,7 @@
 
 - 👨‍💻 I'm a Software Developer with experience in automation (CI/CD) and virtualisation.
 - 🔭 I have experience with AWS and Azure as well as Terraform and Docker.
-- 🌱 I'm currently I'm enhancing my coding skills with Python & JavaScript. I am always open to learning new things and expanding my knowledge.
+- 🌱 I'm currently I'm enhancing my coding skills with Python, Java & JavaScript. I am always open to learning new things and expanding my knowledge.
 - 💬 Ask me about anything related to Cybersecurity, DevOps or Coding.
 - 🗻 Fun fact: Today you learned something new, which makes you better than yesterday!
  
@@ -11,7 +11,8 @@
 ### 🚀 Languages
 
   ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=plastic)
-  ![JavaScript Badge](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+  ![JavaScript Badge](https://img.shields.io/badge/JavaScript-yellow)
+  ![Java Badge](https://img.shields.io/badge/Java-%23FFD700?style=flat-square)
   ![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=plastic)
   ![JSON Badge](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&style=plastic)
   ![YAML Badge](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff&style=plastic)
